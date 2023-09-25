@@ -1,0 +1,7 @@
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\bin\Debug\Programa_De_Calcular_Promedios.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\bin\Debug\Programa_De_Calcular_Promedios.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\bin\Debug\Programa_De_Calcular_Promedios.pdb
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\obj\Debug\Programa_De_Calcular_Promedios.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\obj\Debug\Programa_De_Calcular_Promedios.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\obj\Debug\Programa_De_Calcular_Promedios.exe
+C:\Users\sebas\OneDrive\Escritorio\Universidad\3Q\Programacion II\Programas\Programa_De_Calcular_Promedios\Programa_De_Calcular_Promedios\obj\Debug\Programa_De_Calcular_Promedios.pdb
